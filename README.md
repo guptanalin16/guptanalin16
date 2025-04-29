@@ -1,60 +1,31 @@
 # 👋 Hi, I'm Nalin
 
-🎓 Final-year Computer Science student | 📊 Aspiring Data Analyst | ☁️ AWS Cloud Practitioner Certified
+🎓Computer Science Grad | 📊 Aspiring Data Enthusiast | ☁️ AWS Cloud Practitioner 
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a tech enthusiast passionate about using data to make better decisions and solve real-world problems. With experience in Python, SQL, Power BI, and cloud computing, I love working on data-driven projects that have a societal impact. Currently, I'm building interactive Python mini-games for specially-abled kids as my final year project—merging accessibility with technology.
-
+I'm a tech enthusiast passionate about using data to make better decisions and solve real-world problems. With experience in Python, SQL, Power BI, and cloud computing, I love working on data-driven projects that have a societal impact.
+I’ve recently had the opportunity to work on refining AI language models, where I collaborated with multiple global teams to enhance the contextual accuracy and relevance of model outputs. This hands-on experience deepened my interest in prompt engineering and human-AI alignment—areas I’m excited to keep exploring and growing in.
 ---
 
 ## 🔧 Skills & Tools
 
-- **Languages:** Python, SQL, C++
-- **Data Tools:** Power BI, Excel, Pandas, NumPy, Matplotlib
-- **Cloud:** AWS Cloud Practitioner (Certified)
-- **ML & Analytics:** Facebook Prophet, K-means, Regression models
-- **Other Tools:** Git, Jupyter Notebook
+- **Programming:** Python, SQL  
+- **Data Analytics & BI:** Power BI, Tableau, KNIME, Excel, Google Sheets  
+- **Cloud & Infrastructure:** AWS Cloud Practitioner (Certified), Google Workspace  
+- **Machine Learning & AI:** Facebook Prophet, Regression models, K-means, Prompt Engineering  
+- **Other Tools:** Git, Jupyter Notebook, VS Code, GPTs
 
----
 
-## 🚀 Projects
-
-- 🎮 **Educational Mini Games for Specially-Abled Kids** (Python GUI-based)
-- 📚 **Book Recommendation System** (Content-based filtering)
-- 📉 **Stock Price Predictor** (Using Facebook Prophet)
-- 🛒 **E-commerce Price Comparison Tool** (Internship project)
-- 🧠 **Customer Segmentation** (K-means clustering)
-- 🚗 **Car Price Prediction** (Linear Regression)
-
----
-
-## 🌱 Currently Learning
-
-- Prompt Engineering & LLMs  
-- Power BI dashboards and DAX  
-- More advanced Python for data workflows
-
----
-
-## 🤝 Looking to Collaborate On
-
-- Data analysis or visualization projects
-- AI for social good initiatives
-- LLM tuning or GPT use cases
-
----
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com) <!-- Replace with your link -->
-- [Credly AWS Badge](https://www.credly.com) <!-- Replace with your link -->
-- Email: yourname@example.com
+- [LinkedIn][(https://www.linkedin.com] ((https://www.linkedin.com/in/nalin-gupta-1ba822305/)) <!-- Replace with your link -->
+- [Credly AWS Badge][(https://www.credly.com] ((https://www.credly.com/users/nalin-gupta.3d35f70a)) <!-- Replace with your link -->
+- Email: guptanalin2@gmail.com
 
 ---
 
-## ⚡ Fun Fact
 
-I'm obsessed with how AI models like ChatGPT work—and improving their responses is kind of a dream job for me!
